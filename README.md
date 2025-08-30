@@ -4,10 +4,7 @@
 # How to play
 ### Please download this git repository, open the build folder, and run the executable to play the game
 ### To view the source files and scripts, open the "Order of the Goo" folder, open the "Assets" folder, then open the "Scripts" Folder. All of the scripts are sorted into categories that are relevent to the scripts. Everything in this game was coded in c#.
-
-### If you run into any issues my contacts are:
-### Email: christian.auman@outlook.com
-### Phone: 330-486-5407
+ 
 ### Use those if you have any questions or issues with anything
 
 ### Also if for some reason nothing is working try running it through the unity editor. The Unity version used to make this game is in Unity 2021.2.0f1
